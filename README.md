@@ -24,3 +24,5 @@ https://stackoverflow.com/questions/54440507/encoding-ordinal-values-in-python
 https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
 https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html
 https://towardsdatascience.com/how-to-perform-exploratory-data-analysis-with-seaborn-97e3413e841d
+https://builtin.com/data-science/step-step-explanation-principal-component-analysis
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
