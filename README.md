@@ -25,4 +25,4 @@ https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one
 https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html
 https://towardsdatascience.com/how-to-perform-exploratory-data-analysis-with-seaborn-97e3413e841d
 https://builtin.com/data-science/step-step-explanation-principal-component-analysis
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+Supervised/Predictive Modeling: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
