@@ -26,3 +26,7 @@ https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimat
 https://towardsdatascience.com/how-to-perform-exploratory-data-analysis-with-seaborn-97e3413e841d
 https://builtin.com/data-science/step-step-explanation-principal-component-analysis
 Supervised/Predictive Modeling: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
+ArcGIS Pro:
+https://developers.arcgis.com/python/guide/introduction-to-the-spatial-dataframe/
+https://www.youtube.com/watch?v=h1Lnz-rfWQo
