@@ -32,3 +32,11 @@ https://developers.arcgis.com/python/guide/introduction-to-the-spatial-dataframe
 https://www.youtube.com/watch?v=h1Lnz-rfWQo
 
 test2
+
+How-to setup conda environment on ubuntu:
+  303  anaconda -h
+  304  anaconda-navigator
+  305  conda install -c esri ArcGIS
+  306  jupyter notebook
+  307  pip install seaborn
+  308  pip install scikit-learn
